@@ -1,8 +1,8 @@
-# explicacionRepo
+ #explicacionRepoX (X depende del autor)
 
-Proyecto para ilustrar el uso de repositorios
+Proyecto para probar como se trabaja en equipo en el mismo repositorio
 
 Se han añadido archivo file1.txt
 
-Mas info: en este proyecto trabajan varios programadores.
+Mas info...
 
