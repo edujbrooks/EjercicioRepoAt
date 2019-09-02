@@ -1,6 +1,6 @@
  #explicacionRepoX (X depende del autor)
 
-Proyecto para probar como se trabaja en equipo en el mismo repositorio
+proyecto para probar el uso de repositorios trabajando varios programadores en el mismo.
 
 Se han añadido archivo file1.txt
 
